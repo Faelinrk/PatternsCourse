@@ -1,0 +1,14 @@
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\bin\Debug\netcoreapp3.1\ConsoleRefactoring.exe
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\bin\Debug\netcoreapp3.1\ConsoleRefactoring.deps.json
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\bin\Debug\netcoreapp3.1\ConsoleRefactoring.runtimeconfig.json
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\bin\Debug\netcoreapp3.1\ConsoleRefactoring.runtimeconfig.dev.json
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\bin\Debug\netcoreapp3.1\ConsoleRefactoring.dll
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\bin\Debug\netcoreapp3.1\ConsoleRefactoring.pdb
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\obj\Debug\netcoreapp3.1\ConsoleRefactoring.csproj.AssemblyReference.cache
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\obj\Debug\netcoreapp3.1\ConsoleRefactoring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\obj\Debug\netcoreapp3.1\ConsoleRefactoring.AssemblyInfoInputs.cache
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\obj\Debug\netcoreapp3.1\ConsoleRefactoring.AssemblyInfo.cs
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\obj\Debug\netcoreapp3.1\ConsoleRefactoring.csproj.CoreCompileInputs.cache
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\obj\Debug\netcoreapp3.1\ConsoleRefactoring.dll
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\obj\Debug\netcoreapp3.1\ConsoleRefactoring.pdb
+D:\Projects\ConsoleRefactoring\ConsoleRefactoring\obj\Debug\netcoreapp3.1\ConsoleRefactoring.genruntimeconfig.cache
